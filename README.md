@@ -4,7 +4,7 @@
 
 [![Screenshot](https://github.com/DenisGrishkevich/toDoList_Node.js/blob/main/public/Screenshot.png?raw=true "Screenshot")](https://github.com/DenisGrishkevich/toDoList_Node.js/blob/main/public/Screenshot.png?raw=true "Screenshot")
 
-### **What I use:**
+### **What I used:**
 #### Back-End:
 - Node.js
 - Express.js
