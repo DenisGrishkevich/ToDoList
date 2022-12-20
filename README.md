@@ -1,11 +1,15 @@
-Simple toDoList
+# **Simple toDoList**
+
+### How it looks:
 
 
 
+### **What I use:**
+#### Back-End:
+- Node.js
+- Express.js
 
-
-What I use:
-
-Back-End: Node.js + Express.js
-
-Front-End: HTML + CSS + JavaScript (EJS)
+#### Front-End: 
+- HTML
+- CSS
+- JavaScript (EJS)
